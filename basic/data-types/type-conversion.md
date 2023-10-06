@@ -38,7 +38,7 @@ String is treated as number, when we try to multiply them
         isNaN(NaN);  // true
         isNaN("any str");  // true
 
-  - Issues with NaN
+  - Issues with NaN (Not A Number)
   
     ``` 
     var x = NaN;
