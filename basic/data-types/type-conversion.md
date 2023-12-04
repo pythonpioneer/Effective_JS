@@ -53,4 +53,11 @@ String is treated as number, when we try to multiply them
         // use this to compare NaN
         isNaN(x);  // true
     
+
+## Explicitly type conversion
+
+- Convert any values to number
+      
+  1. Number(values)
+  2. +values
       
